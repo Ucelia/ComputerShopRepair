@@ -1,0 +1,16 @@
+c:\users\celia\documents\visual studio 2015\Projects\ComputerShopRepair\ComputerShopRepair\bin\Debug\ComputerShopRepair.exe.config
+c:\users\celia\documents\visual studio 2015\Projects\ComputerShopRepair\ComputerShopRepair\bin\Debug\ComputerShopRepair.exe
+c:\users\celia\documents\visual studio 2015\Projects\ComputerShopRepair\ComputerShopRepair\bin\Debug\ComputerShopRepair.pdb
+c:\users\celia\documents\visual studio 2015\Projects\ComputerShopRepair\ComputerShopRepair\obj\Debug\ComputerShopRepair.customerRequest.resources
+c:\users\celia\documents\visual studio 2015\Projects\ComputerShopRepair\ComputerShopRepair\obj\Debug\ComputerShopRepair.login.resources
+c:\users\celia\documents\visual studio 2015\Projects\ComputerShopRepair\ComputerShopRepair\obj\Debug\ComputerShopRepair.Properties.Resources.resources
+c:\users\celia\documents\visual studio 2015\Projects\ComputerShopRepair\ComputerShopRepair\obj\Debug\ComputerShopRepair.repairRequest.resources
+c:\users\celia\documents\visual studio 2015\Projects\ComputerShopRepair\ComputerShopRepair\obj\Debug\ComputerShopRepair.sales.resources
+c:\users\celia\documents\visual studio 2015\Projects\ComputerShopRepair\ComputerShopRepair\obj\Debug\ComputerShopRepair.updateRepair.resources
+c:\users\celia\documents\visual studio 2015\Projects\ComputerShopRepair\ComputerShopRepair\obj\Debug\ComputerShopRepair.welcomePge.resources
+c:\users\celia\documents\visual studio 2015\Projects\ComputerShopRepair\ComputerShopRepair\obj\Debug\ComputerShopRepair.csproj.GenerateResource.Cache
+c:\users\celia\documents\visual studio 2015\Projects\ComputerShopRepair\ComputerShopRepair\obj\Debug\ComputerShopRepair.exe
+c:\users\celia\documents\visual studio 2015\Projects\ComputerShopRepair\ComputerShopRepair\obj\Debug\ComputerShopRepair.pdb
+c:\users\celia\documents\visual studio 2015\Projects\ComputerShopRepair\ComputerShopRepair\obj\Debug\ComputerShopRepair.shipments.resources
+C:\Users\Celia\Documents\Visual Studio 2015\Projects\ComputerShopRepair\ComputerShopRepair\obj\Debug\ComputerShopRepair.csproj.AssemblyReference.cache
+C:\Users\Celia\Documents\Visual Studio 2015\Projects\ComputerShopRepair\ComputerShopRepair\obj\Debug\ComputerShopRepair.csproj.CoreCompileInputs.cache
